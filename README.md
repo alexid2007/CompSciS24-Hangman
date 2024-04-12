@@ -7,4 +7,6 @@ When you run the code, a module library "random" will select from a pool of word
 When you win, it will display "“Good Job! You saved his life. The word was (chosen_word).”
 If you lose, it will display "Oops! You hung him out to die. The word was:&quot;, chosen_word).”
 
+The code was immported from where we were working in replit.com
+
 Good luck players!
